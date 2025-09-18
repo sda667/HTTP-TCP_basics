@@ -42,7 +42,8 @@ The packet structure follows:
 - Wireshark displays relative sequence and acknowledgment numbers.  
 - **Congestion control** and **slow start** appear in the TCP flow graph.  
 
-(Figure: Wireshark timesequence not included here.)  
+  <img width="1048" height="477" alt="timesquence" src="https://github.com/user-attachments/assets/37411ca6-956d-4190-8441-e6161df2320e" />
+
 
 ---
 
